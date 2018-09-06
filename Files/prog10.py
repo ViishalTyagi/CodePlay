@@ -1,3 +1,4 @@
+#just a funny program
 inp = input('Enter a file name:')
 if inp == 'na na boo boo':
     print('NA NA BOO BOO TO YOU - You have been punk''d!')
